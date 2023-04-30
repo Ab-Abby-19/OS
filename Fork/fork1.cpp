@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     fork();
-    cout << "GeeksforGeeks" << endl;
+    cout << "Hello" << endl;
   
     return 0;
 }
